@@ -2,6 +2,8 @@
 
 # tron1-rl-isaaclab
 
+> 🧭 **Part of the TRON1 open-source ecosystem.** All TRON1 repositories and where to start: [TRON1 open-source ecosystem](https://github.com/limxdynamics/tron1-rl-isaacgym#tron1-open-source-ecosystem).
+
 Reinforcement learning training stack for the LimX **TRON1** bipedal robot, built on [Isaac Lab](https://isaac-sim.github.io/IsaacLab/) and using PPO to train locomotion policies. This repository extends the Isaac Lab template to support sim-to-real training for TRON1 robot variants.
 
 ## Requirements
