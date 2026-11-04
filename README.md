@@ -22,7 +22,7 @@ Reinforcement learning training stack for the LimX **TRON1** bipedal robot, buil
 > included; pre-trained ones ship with
 > [tron1-rl-deploy-python](https://github.com/limxdynamics/tron1-rl-deploy-python).
 
-> **Part of the TRON1 open-source ecosystem.** All TRON1 repositories and where to start: [TRON1 open-source ecosystem](https://github.com/limxdynamics/tron1-rl-isaacgym#tron1-open-source-ecosystem).
+> **Part of the TRON1 open-source ecosystem.** Where to start and the other TRON1 repositories: [TRON1 quick start](https://github.com/limxdynamics/limxdynamics/blob/main/doc/quickstart.md#tron1).
 
 ## Highlights
 

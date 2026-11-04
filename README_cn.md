@@ -21,7 +21,7 @@
 > 仓库不附带训练好的策略；预训练策略随
 > [tron1-rl-deploy-python](https://github.com/limxdynamics/tron1-rl-deploy-python) 提供。
 
-> **TRON1 开源生态的一部分。** TRON1 全部开源仓库和上手路线：[TRON1 开源生态](https://github.com/limxdynamics/tron1-rl-isaacgym/blob/master/README_cn.md#tron1-开源生态)。
+> **TRON1 开源生态的一部分。** 上手路线和其他 TRON1 仓库：[TRON1 快速上手](https://github.com/limxdynamics/limxdynamics/blob/main/doc/quickstart_cn.md#tron1)。
 
 ## 亮点
 
